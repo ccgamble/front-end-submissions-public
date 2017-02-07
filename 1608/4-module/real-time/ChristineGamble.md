@@ -41,7 +41,7 @@ I think this code is fairly clean and is a good way of hiding/showing the poll b
 This is all of my styling. I know this isn't really included in the project spec, but it would have much better UI/UX if I had time to add SOME styling.
 
 #### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
-[Terminal screenshot](https://cloud.githubusercontent.com/assets/15853081/22710790/f10dd506-ed3b-11e6-982a-f927370ecce2.png)
+[Terminal screenshot](https://cloud.githubusercontent.com/assets/15853081/22713744/e9ac7938-ed46-11e6-950e-d4efe60a406d.png)
 
 
 #### Please feel free to ask any other questions or make any other statements below!
